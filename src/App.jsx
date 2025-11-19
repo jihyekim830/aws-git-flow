@@ -15,6 +15,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <p>로그인 기능</p>
+      <p>회원가입 기능</p>
     </>
   );
 }
